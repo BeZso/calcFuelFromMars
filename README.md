@@ -1,0 +1,2 @@
+# calcFuelFromMars
+Codeberry - Marson rekedve
